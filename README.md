@@ -1,3 +1,4 @@
 # apnacollege-demo
-This is my first git repo while watching tutorial
+This is my first git repo while watching tutorial.
+<br>
 Author - Pranav
